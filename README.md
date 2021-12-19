@@ -1,7 +1,7 @@
 
 # 3tzTidbytClock
 
-![screenshot](clock.webp | width=256)
+![screenshot](clock.webp=128x256)
 
 a clock for the [Tidbyt](https://tidbyt.com/) devoce showing the time in Seattle, Austin and Berlin
 
